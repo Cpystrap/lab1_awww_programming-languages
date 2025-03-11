@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Programming Languages"
-permalink: /strona2/
+permalink: /strona2.md/
 ---
 
 # List of Programming Languages - TIOBE Index
