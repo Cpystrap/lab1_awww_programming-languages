@@ -19,5 +19,5 @@ On this page, you will find detailed data on programming languages, their popula
 
 ***
 
-## Link to the [programming languages table page](/strona2/)
+## Link to the [programming languages table page](/strona2.md/)
 ##### Source: https://www.tiobe.com/tiobe-index/
